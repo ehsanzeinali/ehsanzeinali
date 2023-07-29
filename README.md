@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ehsan</h1>
 <h3 align="center">A passionate iOS developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsanzeinali&label=Profile%20views&color=0e75b6&style=flat" alt="ehsanzeinali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ehsanzeinali&label=Profile%20views&color=0e75b6&style=flat" alt="ehsanzeinali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehsanzeinali" alt="ehsanzeinali" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehsanzeinali" alt="ehsanzeinali" /></a> </p>
 
 - 🔭 I’m currently working on [Palphone](https://apps.apple.com/us/app/palphone/id1637595045)
 
 - 👯 I’m looking to collaborate on **modular code design for enhanced reusability and maintainability**
 
-- 💬 Ask me about **Swift,SwiftUI,Objective -C**
+- 💬 Ask me about **Swift, SwiftUI, Objective -C**
 
 - 📫 How to reach me **ehsanzeinalinia@gmail.com**
 
