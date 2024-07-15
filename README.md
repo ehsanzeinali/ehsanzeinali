@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehsanzeinali" alt="ehsanzeinali" /></a> </p>
 
-- 🔭 I’m currently working on [Maani](https://apps.apple.com/us/app/%D9%85%D8%A7%D9%86%DB%8C-maani/id6447483695)
+- 🔭 I’m currently working on [Matt3r](https://matt3r.ai)
 
 - 👯 I’m looking to collaborate on **modular code design for enhanced reusability and maintainability**
 
